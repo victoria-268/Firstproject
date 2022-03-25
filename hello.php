@@ -1,4 +1,4 @@
 <?php
 echo "HELLO VICTORIA";
-echo "GOOD TO SEE U";
+echo "GOOD TO SEE ALL";
 ?>
